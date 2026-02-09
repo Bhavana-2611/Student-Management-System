@@ -1,6 +1,6 @@
 # Student-Management-System
  A simple web-based student management system to manage and view student details.
-## FEatures
+## Features
 - Add student information
 - View student records
 - User-friendly interface
